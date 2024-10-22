@@ -630,6 +630,10 @@ input, textarea {
         font-size: 11px;
     }
 
+    .carousel-indicators {
+        display: none;
+    }
+
     .carousel-button {
         padding: 0.5rem;
         font-size: 1rem;
