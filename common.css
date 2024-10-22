@@ -625,6 +625,11 @@ input, textarea {
         border-radius: 0;
     }
 
+    .carousel-item .carousel-caption {
+        padding: 0;
+        font-size: 11px;
+    }
+
     .carousel-button {
         padding: 0.5rem;
         font-size: 1rem;
